@@ -2,7 +2,7 @@
   "sitename": "Bael Alt",
   "sitedescription": "An alternative, full-page layout for Bael, a NetlifyCMS theme",
   "siteicon": "/images/uploads/icon.png",
-  "showmenu": true,
+  "showmenu": false,
   "emailsignup": false,
   "altlayout": true,
   "menu": [
@@ -12,14 +12,9 @@
       "link": "https://www.jake101.com/"
     },
     {
-      "name": "Nuxt.js",
+      "name": "Bael Theme",
       "position": "2",
-      "link": "https://www.nuxtjs.org/"
-    },
-    {
-      "name": "Netlify",
-      "position": "3",
-      "link": "https://www.netlify.com/"
+      "link": "https://bael-theme.jake101.com/"
     }
   ]
 }
