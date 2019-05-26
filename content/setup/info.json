@@ -1,10 +1,10 @@
 {
-  "sitename": "Bael",
-  "sitedescription": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js.",
+  "sitename": "Bael Alt",
+  "sitedescription": "An alternative, full-page layout for Bael, a NetlifyCMS theme",
   "siteicon": "/images/uploads/icon.png",
   "showmenu": true,
-  "emailsignup": true,
-  "altlayout": false,
+  "emailsignup": false,
+  "altlayout": true,
   "menu": [
     {
       "name": "jake101",
